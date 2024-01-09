@@ -1,6 +1,6 @@
-# Gradle files
-.gradle/
-build/
+# Rabah chawi
+.Rabah/
+chawi/
 
 # Local configuration file (sdk path, etc)
 local.properties
